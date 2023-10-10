@@ -1,5 +1,5 @@
 # Spam-Ham-Detector
-### Overview
+# Overview
 
 This repository contains code for a Spam Ham Detector. The detector is built using a combination of regular expressions (re), lemmatization, TF-IDF (Term Frequency-Inverse Document Frequency), and an XGBoost classifier. This system is designed to classify messages into two categories: spam and ham (non-spam).
 
@@ -15,11 +15,11 @@ TF-IDF Vectorization: Transforms text data into numerical format, representing t
 
 XGBoost Classifier: A popular gradient boosting algorithm used for classification tasks.
 
-### Results
+# Results
 
 The detector achieved an accuracy of 0.9617224880382775% on the test set, demonstrating its effectiveness in classifying spam and ham messages.
 
-### Contributing
+# Contributing
 
 If you'd like to contribute to this project, please follow these steps:
 
